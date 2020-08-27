@@ -26,9 +26,11 @@ In order to filter employees by name, type a name into the search bar.
 In order to sort the employee list by DOB, click on that category.
 
 Finished Product
-View the deployed application via Heroku here.
+*Heroku:
+https://stark-caverns-84097.herokuapp.com/
 
-View a brief demo of the application here:
+*GitHub
+https://github.com/Stevenijames/employeedirectoryapp
 
 Screenshot:
 ![screenshot2](/assets/images/screenshot2.png)
