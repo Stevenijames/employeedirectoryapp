@@ -27,7 +27,7 @@ In order to sort the employee list by DOB, click on that category.
 
 Finished Product
 *Heroku:
-https://stark-caverns-84097.herokuapp.com/
+https://employeedirectoryapp4579.herokuapp.com/
 
 *GitHub
 https://github.com/Stevenijames/employeedirectoryapp
